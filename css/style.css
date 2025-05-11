@@ -12,7 +12,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #000;
+    background: #4ca1af;
+    background: linear-gradient(to right, #4ca1af, #c4e0e5);
 }
 
 .container{
